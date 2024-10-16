@@ -1,0 +1,2 @@
+# Dev-truder
+profundización disciplinar
